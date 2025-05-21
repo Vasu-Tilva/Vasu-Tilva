@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Vasu tilva</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
